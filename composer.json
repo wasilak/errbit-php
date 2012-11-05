@@ -8,13 +8,13 @@
     "authors": [
         {
             "name": "Flippa.com Pty. Ltd.",
-            "email": "",
             "homepage": "https://flippa.com/",
             "role": "Developer"
         },
         {
     	    "name": "Piotr Wasilewski",
-    	    "role": "Packager"
+    	    "role": "Packager",
+    	    "email": "piotr.m.wasilewski@gmail.com"
         }
     ],
     "require": {
