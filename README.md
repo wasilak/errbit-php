@@ -1,5 +1,6 @@
-### This is original Errbit-PHP package adjusted to work as Composer package
-
+### Errbit-PHP Composer package
+This is original [Errbit-PHP] (https://github.com/flippa/errbit-php) package adjusted to work as Composer package.
+You can find Errbit [here] (https://github.com/errbit/errbit).
 ---
 
 # Errbit & Airbrake Client for PHP
