@@ -1,3 +1,7 @@
+### This is original Errbit-PHP package adjusted to work as Composer package
+
+---
+
 # Errbit & Airbrake Client for PHP
 
 This is a full-featured client to add integration with Errbit (or Airbrake)
