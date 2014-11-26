@@ -1,3 +1,4 @@
+[![Latest Stable Version](https://poser.pugx.org/errbit/errbit-php/v/stable.svg)](https://packagist.org/packages/errbit/errbit-php) [![Total Downloads](https://poser.pugx.org/errbit/errbit-php/downloads.svg)](https://packagist.org/packages/errbit/errbit-php) [![Latest Unstable Version](https://poser.pugx.org/errbit/errbit-php/v/unstable.svg)](https://packagist.org/packages/errbit/errbit-php) [![License](https://poser.pugx.org/errbit/errbit-php/license.svg)](https://packagist.org/packages/errbit/errbit-php)
 ### Errbit-PHP Composer package
 This is original [Errbit-PHP] (https://github.com/flippa/errbit-php) package adjusted to work as Composer package. You can find Errbit [here] (https://github.com/errbit/errbit).
 
